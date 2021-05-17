@@ -1,4 +1,4 @@
-minor changes in first line 
+first line changes belong to js, minor changes in first line 
 This is the assignment related to A2
 html assign
 <<<<<<< HEAD
